@@ -22,9 +22,9 @@
 20. [剑指Offer25.合并两个排序的链表-力扣（LeetCode）](./Coding/剑指Offer25.合并两个排序的链表-力扣（LeetCode）.md)
 21. [剑指Offer26.树的子结构-力扣（LeetCode）](./Coding/剑指Offer26.树的子结构-力扣（LeetCode）.md)
 22. [剑指Offer27.二叉树的镜像-力扣（LeetCode）](./Coding/剑指Offer27.二叉树的镜像-力扣（LeetCode）.md)
-23. [剑指Offer28.对称的二叉树-力扣（LeetCode)](./Coding/剑指Offer28.对称的二叉树-力扣（LeetCode).md)
+23. [剑指Offer28.对称的二叉树-力扣（LeetCode）](./Coding/剑指Offer28.对称的二叉树-力扣（LeetCode）.md)
 24. [剑指Offer29.顺时针打印矩阵-力扣（LeetCode）](./Coding/剑指Offer29.顺时针打印矩阵-力扣（LeetCode）.md)
-25. [剑指Offer30.包含min函数的栈-力扣（LeetCode)](./Coding/剑指Offer30.包含min函数的栈-力扣（LeetCode).md)
+25. [剑指Offer30.包含min函数的栈-力扣（LeetCode）](./Coding/剑指Offer30.包含min函数的栈-力扣（LeetCode）.md)
 26. [剑指Offer31.栈的压入、弹出序列-力扣（LeetCode）](./Coding/剑指Offer31.栈的压入、弹出序列-力扣（LeetCode）.md)
 27. [剑指Offer32-I.从上到下打印二叉树-力扣（LeetCode）](./Coding/剑指Offer32-I.从上到下打印二叉树-力扣（LeetCode）.md)
 28. [剑指Offer32-II.从上到下打印二叉树II-力扣（LeetCode）](./Coding/剑指Offer32-II.从上到下打印二叉树II-力扣（LeetCode）.md)
@@ -67,3 +67,4 @@
 65. [剑指Offer64.求1+2+…+n-力扣（LeetCode）](./Coding/剑指Offer64.求1+2+…+n-力扣（LeetCode）.md)
 66. [剑指Offer65.不用加减乘除做加法-力扣（LeetCode）](./Coding/剑指Offer65.不用加减乘除做加法-力扣（LeetCode）.md)
 67. [剑指Offer66.构建乘积数组-力扣（LeetCode）](./Coding/剑指Offer66.构建乘积数组-力扣（LeetCode）.md)
+
